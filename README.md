@@ -15,7 +15,10 @@ load("heart.rda")
 ### Parameters
 
 [B] A nxd matrix of training examples
+
 [y] A n length vector of training labels
+
 [t] L1 norm constraint
+
 [lambda] L2 regularization coefficient
 
